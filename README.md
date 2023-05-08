@@ -5,7 +5,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=joaocpalma&label=Profile%20views&color=0e75b6&style=flat" alt="joaocpalma" /> </p>
 
-- 🔭 I’m currently working on **My Portfolio Website**
+- 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **Front End Dev.**
 
